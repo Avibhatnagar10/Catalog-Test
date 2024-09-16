@@ -9,3 +9,5 @@ This project implements a simplified version of Shamir's Secret Sharing algorith
    ```bash
    git clone https://github.com/yourusername/shamir-secret-sharing.git
    cd shamir-secret-sharing
+   npm install
+   npm start
